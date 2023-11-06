@@ -1,0 +1,7 @@
+.container{
+  border: 50px;
+  background-color: bisque;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+}
